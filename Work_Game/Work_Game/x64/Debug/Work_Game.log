@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Wesley\source\repos\Rogue_One_Test3-master\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\System_Actions.h(286): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Wesley\source\repos\Rogue_One_Test3-master\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\System_Actions.h(288): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wesley\source\repos\Rogue_One_Test3-master\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\System_Actions.h(290): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wesley\source\repos\Rogue_One_Test3-master\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\Main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Work_Game.vcxproj -> C:\Users\Wesley\source\repos\Rogue_One_Test3-master\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\x64\Debug\Work_Game.exe

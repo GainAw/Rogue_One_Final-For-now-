@@ -1,0 +1,13 @@
+inventory stuff
+equipt stuff
+
+damage increasing (weapons)
+health increasing (potions, armors)
+inventory size increasing (backpacks)
+
+new events (Mimic event, treasure room, loot at end of battle, boss rooms)
+
+
+*Much later
+gui and sprite world
+no longer text based (buttons)
